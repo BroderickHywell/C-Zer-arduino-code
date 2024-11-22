@@ -40,3 +40,10 @@ void loop() {
     delayMicroseconds(1000);
   }
 }
+
+/*
+FEATURES V1
+-depth perception(ultrasonic sensor)
+-random movement with motors
+-led to signify when its moving and such
+*/
