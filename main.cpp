@@ -46,4 +46,8 @@ FEATURES V1
 -depth perception(ultrasonic sensor)
 -random movement with motors
 -led to signify when its moving and such
+
+FEATURES V2
+-speaker with speaking module
+-camera module with facial recognition
 */
