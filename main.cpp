@@ -50,4 +50,8 @@ FEATURES V1
 FEATURES V2
 -speaker with speaking module
 -camera module with facial recognition
+
+FEATURES V3
+-install arms
+-add feature to hold items
 */
