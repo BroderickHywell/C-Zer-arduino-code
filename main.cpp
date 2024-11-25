@@ -54,4 +54,8 @@ FEATURES V2
 FEATURES V3
 -install arms
 -add feature to hold items
+
+FEATURES V4
+-integrate ai with audio reciever
+-speaker module to speak to user
 */
